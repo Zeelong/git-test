@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print("I Am Master Test")
     print("hot-fix test")
     print("push test")
+    print("pull test from github")
